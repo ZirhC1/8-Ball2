@@ -1,0 +1,39 @@
+html {
+  background-color: black;
+}
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font: 2px;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font: 90px;
+  color: white;
+}
+
+p {
+  font: bold;
+  font: 35px;
+  color: white;
+}
+
+img {
+  width: 800px;
+  height: 800px;
+  text-align: center;
+}
+
+#ball-area {
+  padding-top: 210px;
+  margin: auto;
+  width: 500px;
+  height: 500px;
+  background: url("img/bg12-removebg-preview.png");
+  background-repeat: no-repeat;
+}
